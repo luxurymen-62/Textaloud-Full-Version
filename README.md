@@ -235,4 +235,4 @@ This repository serves as the official landing page for TextAloud. The software 
 **Get the most recent version of TextAloud today!**
 
 ---
-**Last updated:** 2026-10-13 21:06:36 UTC
+**Last updated:** 2026-10-14 01:01:08 UTC
